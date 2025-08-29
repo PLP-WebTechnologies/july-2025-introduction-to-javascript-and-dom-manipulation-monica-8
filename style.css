@@ -1,0 +1,16 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin: 2rem;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.7rem 1.2rem;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+#output {
+  background-color: #f4f4f4;
+  min-height: 120px;
+}
